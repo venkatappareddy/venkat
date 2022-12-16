@@ -1,0 +1,3 @@
+welcome to git
+my first code
+in github
